@@ -1,0 +1,6 @@
+c:\users\manager\documents\visual studio 2015\Projects\revisao\revisao\bin\Debug\revisao.exe.config
+c:\users\manager\documents\visual studio 2015\Projects\revisao\revisao\bin\Debug\revisao.exe
+c:\users\manager\documents\visual studio 2015\Projects\revisao\revisao\bin\Debug\revisao.pdb
+c:\users\manager\documents\visual studio 2015\Projects\revisao\revisao\obj\Debug\revisao.csprojResolveAssemblyReference.cache
+c:\users\manager\documents\visual studio 2015\Projects\revisao\revisao\obj\Debug\revisao.exe
+c:\users\manager\documents\visual studio 2015\Projects\revisao\revisao\obj\Debug\revisao.pdb
